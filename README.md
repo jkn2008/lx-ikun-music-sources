@@ -9,6 +9,19 @@
 
 ---
 
+## 先上链接
+
+https://github.com/lyswhut/lx-music-desktop
+
+https://github.com/lyswhut/lx-music-mobile
+
+https://github.com/ikunshare/ikun-music-desktop
+
+https://github.com/ikunshare/ikun-music-mobile
+
+https://github.com/souvenp/lx-netease-music-mobile
+
+---
 ## 🎯 快速导航
 
 - [💳 付费音源服务](#-付费音源服务)
@@ -97,6 +110,10 @@ guoyue2010 与时迁酱已达成合作，现可通过以下任一官方渠道购
 - 📥 部分转载自以下开源仓库：
   - https://github.com/TZB679/USEFUL-LX-MUSIC-SOURCES
   - https://github.com/guoyue2010/lxmusic-
+- 软件转载自：
+  - https://github.com/ikunshare/ikun-music-mobile
+  - https://github.com/ikunshare/ikun-music-desktop
+  项目已复活，请前往发布页进行下载
 
 **版权声明**：如有版权问题，请联系删除！
 
