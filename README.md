@@ -97,9 +97,10 @@ https://github.com/timeshiftsauce/CeruMusic
 ### 🎧 聆川音源 (by guoyue2010)
 
 **价格方案**：
-- 🏆 年卡：5元
-- 📅 月卡：2元  
-- 📅 周卡：1元
+- 🏆 永久：10元
+- 📅 年卡：4元
+- 📅 月卡：3元
+- 📅 周卡：1.5元
 - 📅 天卡：0.5元
 
 **导入链接**：
@@ -109,7 +110,8 @@ https://github.com/timeshiftsauce/CeruMusic
 ### 🎵 新澜音源 (by 时迁酱)
 
 **价格方案**：
-- 🏆 年卡：5元
+- 🏆 永久：20元
+- 📅 年卡：5元
 - 📅 半年卡：3元
 - 📅 月卡：2元
 - 📅 周卡1元
@@ -128,15 +130,14 @@ guoyue2010 与时迁酱已达成合作，现可通过以下任一官方渠道购
 ### ⭐ IKUN 音源
 
 **价格方案**：
-- ⏳ 周卡：5元
-- 📅 月卡：8元
-- 📅 年卡：15元
 - 🏆 永久：20元
+- 📅 年卡：15元
+- 📅 月卡：10元
 
 **官方购买**：https://shop.ikunshare.com/
 
 **导入方式**
-- 发布页面是(这个)[https://publish.ikun0014.top/]，你把卡密怼进去就行了
+- 发布页面是[这个](https://publish.ikun0014.top/) ，你把卡密怼进去就行了
 - 注意将“卡密”换成public_source或直接删掉“?key=卡密”可得公益版音源
 - http://api.ikunshare.com/script?key=卡密
 - 备用域名：music.ikun0014.top
